@@ -14,8 +14,7 @@ dt =array("Mineria de texto")
 dt=list("Mama, papa, hermano, tio, perro")
 dia=Sys.Date()
 hora=Sys.time()
-Fecha=as.Date("2025-08-28",format("%Y-%d-%m"))
-
+Fecha=as.Date("2025-28-08",format("%Y-%d-%m"))
 comentarios=c ("Me encanto esta pelicula. Aunque hay algunos cambios respecto al original, son detalles sutiles que aportan frescura sin perder la esencia que todos conocemos y amamos. Han logrado mantener muy bien la personalidad de los personajes principales, al mismo tiempo que introducen novedades que enriquecen la historia. La recomiendo mucho, tanto para los adultos que crecieron con Lilo y Stitch como para los ninos, quienes encontraran una historia hermosa.
 
 Debo decir que es una increible pelicula, totalmente divertida y emotiva, respetando la esencia del clasico original. Esta es una version mas madura, llena de muchas risas y ternura. Sin duda, uno de los mejores live action que ha hecho Disney. Me encanto la calidad con la que hicieron a Stitch.
